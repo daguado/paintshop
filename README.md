@@ -1,4 +1,4 @@
-#Paint Shop - Coding challenge
+# Paint Shop - Coding challenge
 
 # Build and run tests
 

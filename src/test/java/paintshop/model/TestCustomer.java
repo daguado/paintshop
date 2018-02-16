@@ -1,21 +1,3 @@
-/*
- * Classname : TestCustomer.java
- *
- * Created on: 12 Feb 2018
- *
- * Copyright (c) 2000-2018 Realex Payments, Ltd.
- * Realex Payments, The Observatory, 7-11 Sir John Rogerson's Quay, Dublin 2, Ireland
- *  
- * All Rights Reserved.
- *
- * This software is the confidential and proprietary information of
- * Realex Payments, Ltd. ("Confidential Information"). You shall not
- * disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered into
- * with Realex Payments.
- *
- */
-
 package paintshop.model;
 
 import static org.junit.Assert.assertEquals;
